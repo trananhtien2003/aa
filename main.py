@@ -12,7 +12,7 @@ score_font = pygame.font.Font(None,40)
 GREEN = (173, 204, 96)
 DARK_GREEN = (43, 51, 24)
 
-cell_size = 3122
+cell_size = 31
 number_of_cells = 25
 
 OFFSET = 75
